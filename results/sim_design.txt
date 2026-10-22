@@ -1,0 +1,10 @@
+Part A: N=18 rho(A0)=0.692 phi10 in [0.112,0.287] phi11 in [0.410,0.588] links in W0=54
+Part C: N=18 rho(A0)=0.694 phi10 in [0.112,0.287] phi11 in [0.410,0.588] links in W0=73
+Part D: N=40 rho(A0)=0.751 phi10 in [0.106,0.294] phi11 in [0.414,0.594] links in W0=164
+Part A: W_wrong shares 10 of 54 links with W0
+Part B: N=12 r=0.3 rho(A0)=0.737
+Part B: N=12 r=0.6 rho(A0)=0.737
+Part B: N=12 r=0.9 rho(A0)=0.737
+Part B: N=24 r=0.3 rho(A0)=0.720
+Part B: N=24 r=0.6 rho(A0)=0.720
+Part B: N=24 r=0.9 rho(A0)=0.720

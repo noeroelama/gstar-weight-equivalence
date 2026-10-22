@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+type: software
+title: "gstar-weight-equivalence: code and data for 'A block bootstrap equivalence test for the choice of spatial weight matrix in space-time autoregressive models'"
+abstract: "Code and data that reproduce the simulation study and the rainfall application of the paper: an equivalence (TOST) test of whether two spatial weight matrices give the same value of a reported quantity in a GSTARX(1;1) model, with a moving-block bootstrap of the influence sequence, applied to monthly CHIRPS rainfall for 40 regions of Indonesia and its neighbours."
+authors:
+  - family-names: Nurwahid
+    given-names: Arif
+    affiliation: "Graduate School of Science and Engineering, Ehime University"
+    orcid: "https://orcid.org/0009-0005-8802-9629"
+version: 1.0.0
+date-released: 2026-10-22
+license: MIT
+repository-code: "https://github.com/noeroelama/gstar-weight-equivalence"
+keywords:
+  - spatial weight matrix
+  - equivalence testing
+  - moving-block bootstrap
+  - GSTAR model
+  - space-time autoregressive model
+  - rainfall
+  - CHIRPS
+  - Indonesia

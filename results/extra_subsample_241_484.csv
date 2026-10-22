@@ -1,0 +1,17 @@
+W,kind,direct,indirect,rho_A,theta_hat,se_mbb,c_min,equivalent,equivalent_hac,dyn_c_min,dyn_equivalent
+geographic KNN,estimate,1.1566406538816398,0.28076782014487056,0.5000075466309604,,,,,,,
+inverse-distance,estimate,1.125745636671525,0.5801517380729319,0.46586982048672154,,,,,,,
+training-correlation,estimate,1.1299430980389473,0.6901507807183137,0.4813779018521064,,,,,,,
+graphical-lasso,estimate,1.1124843985284796,0.34169707556171236,0.523319875028005,,,,,,,
+geographic KNN vs inverse-distance,direct,,,,0.030895017210114784,0.03004982230596138,0.067,True,True,0.418,False
+geographic KNN vs training-correlation,direct,,,,0.02669755584269251,0.03248268355175331,0.067,True,True,0.41200000000000003,False
+geographic KNN vs graphical-lasso,direct,,,,0.044156255353160256,0.022925766207627502,0.068,True,True,0.4315,False
+inverse-distance vs training-correlation,direct,,,,-0.004197461367422273,0.009316563134686689,0.0175,True,True,0.159,False
+inverse-distance vs graphical-lasso,direct,,,,0.013261238143045473,0.01877461558918798,0.039,True,True,0.35150000000000003,False
+training-correlation vs graphical-lasso,direct,,,,0.017458699510467746,0.01928656497068439,0.043500000000000004,True,True,0.41200000000000003,False
+geographic KNN vs inverse-distance,indirect,,,,-0.2993839179280613,0.10279104723447392,1.6620000000000001,False,False,,
+geographic KNN vs training-correlation,indirect,,,,-0.40938296057344314,0.13379593001016077,2.251,False,False,,
+geographic KNN vs graphical-lasso,indirect,,,,-0.0609292554168418,0.03168287739617402,0.5045000000000001,False,False,,
+inverse-distance vs training-correlation,indirect,,,,-0.10999904264538185,0.04804294942550849,0.6905,False,False,,
+inverse-distance vs graphical-lasso,indirect,,,,0.2384546625112195,0.09474632266555234,1.35,False,False,,
+training-correlation vs graphical-lasso,indirect,,,,0.34845370515660135,0.12539723229422484,1.8575,False,False,,

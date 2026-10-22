@@ -1,0 +1,10 @@
+DGP as in Part A; functional=phi11_mean; delta=0.1374; lam(ratio=1)=0.5452; theta0=0.1374
+[1] T_LONG=400000: theta_hat=0.1383; Bartlett LRV (bandwidth 50) = 0.20471; implied sd at T=480 = 0.0207; at T=240 = 0.0292; at T=120 = 0.0413
+[1] T_LONG=400000: theta_hat=0.1383; Bartlett LRV (bandwidth 100) = 0.20457; implied sd at T=480 = 0.0206; at T=240 = 0.0292; at T=120 = 0.0413
+[1] T_LONG=400000: theta_hat=0.1383; Bartlett LRV (bandwidth 200) = 0.20662; implied sd at T=480 = 0.0207; at T=240 = 0.0293; at T=120 = 0.0415
+[1] T_LONG=400000: theta_hat=0.1383; Bartlett LRV (bandwidth 400) = 0.21403; implied sd at T=480 = 0.0211; at T=240 = 0.0299; at T=120 = 0.0422
+[1] Politis-White block length on the long series: 32.1  [7s]
+[1] Part A, ratio=1, T=120: MC sd = 0.0443; mean se MBB = 0.0384; mean se HAC = 0.0386
+[1] Part A, ratio=1, T=240: MC sd = 0.0304; mean se MBB = 0.0276; mean se HAC = 0.0278
+[1] Part A, ratio=1, T=480: MC sd = 0.0211; mean se MBB = 0.0196; mean se HAC = 0.0199
+[2] T=2000, R=500, B=399: MC sd = 0.0102; mean se MBB = 0.0097 (-4.3%); mean se HAC = 0.0099 (-2.9%)  [49s]

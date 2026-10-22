@@ -1,0 +1,5 @@
+W,share_bic_prefers_11_over_21,share_bic_prefers_11_over_10,lb_reject_11,lb_reject_21
+geographic KNN,0.775,0.3,0.35,0.1
+inverse-distance,0.675,0.4,0.325,0.075
+training-correlation,0.75,0.6,0.275,0.05
+graphical-lasso,0.775,0.275,0.325,0.075

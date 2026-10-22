@@ -1,0 +1,5 @@
+,mean_nonzero_per_row
+geographic KNN,5.0
+inverse-distance,39.0
+training-correlation,38.85
+graphical-lasso,7.65

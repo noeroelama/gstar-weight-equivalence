@@ -1,0 +1,33 @@
+{
+  "title": "gstar-weight-equivalence: code and data for \"A block bootstrap equivalence test for the choice of spatial weight matrix in space-time autoregressive models\"",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Nurwahid, Arif",
+      "affiliation": "Graduate School of Science and Engineering, Ehime University",
+      "orcid": "0009-0005-8802-9629"
+    }
+  ],
+  "description": "<p>Code and data for the paper <em>A block bootstrap equivalence test for the choice of spatial weight matrix in space-time autoregressive models</em> by A. Nurwahid, submitted to <em>Computational Statistics &amp; Data Analysis</em>.</p><p>The paper proposes a test of whether two candidate spatial weight matrices give the same value of a reported quantity in a GSTARX(1;1) model, within a margin fixed in advance. The quantities are the average spatial-lag coefficient, the long-run direct and indirect effects and the one-step forecast RMSE. The standard error comes from a moving-block bootstrap of one scalar influence sequence per month, so the model is not refitted inside the bootstrap.</p><p>The application uses monthly rainfall for 40 regions (38 Indonesian provinces, Papua New Guinea and non-Indonesian Borneo), January 1985 to April 2025. Each value is the mean of the CHIRPS v2.0 pixels inside a region polygon. The scripts reproduce the simulation study (Section 5), the application (Section 6), the tables and the figures of the paper.</p><p>Contents: <code>data/</code> (rainfall series, Ni&ntilde;o 3.4 and Dipole Mode Index, region table, nearest-neighbour matrix, and a description of sources), <code>code/</code> (Python code), <code>results/</code> (reference output).</p><p>The code is released under the MIT License. The rainfall series are derived from CHIRPS v2.0 (Funk et al., 2015), which is in the public domain, and are released under CC BY 4.0. See <code>data/README.md</code> for details.</p>",
+  "keywords": [
+    "spatial weight matrix",
+    "equivalence testing",
+    "moving-block bootstrap",
+    "GSTAR model",
+    "space-time autoregressive model",
+    "rainfall",
+    "CHIRPS",
+    "Indonesia"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.1038/sdata.2015.66",
+      "relation": "references",
+      "resource_type": "publication-article"
+    }
+  ]
+}

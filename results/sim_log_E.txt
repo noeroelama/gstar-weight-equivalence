@@ -1,0 +1,23 @@
+=== sim_study start 2026-10-04 14:03:05 exp=E R=1000 B=399
+[E] phi11_mean: tau_pop(W_A) = 0.4825; delta = 0.1374; c = 0.2847
+[E] phi11_mean ratio=0.50 T=240: eq_rel(mbb)=0.826 eq_rel(hac)=0.830 a025(mbb)=0.756 [9s]
+[E] phi11_mean ratio=0.50 T=480: eq_rel(mbb)=0.970 eq_rel(hac)=0.968 a025(mbb)=0.940 [16s]
+[E] phi11_mean ratio=1.00 T=240: eq_rel(mbb)=0.084 eq_rel(hac)=0.083 a025(mbb)=0.051 [9s]
+[E] phi11_mean ratio=1.00 T=480: eq_rel(mbb)=0.067 eq_rel(hac)=0.065 a025(mbb)=0.039 [17s]
+[E] phi11_mean ratio=1.50 T=240: eq_rel(mbb)=0.000 eq_rel(hac)=0.000 a025(mbb)=0.000 [10s]
+[E] phi11_mean ratio=1.50 T=480: eq_rel(mbb)=0.000 eq_rel(hac)=0.000 a025(mbb)=0.000 [17s]
+[E] direct: tau_pop(W_A) = 1.4434; delta = 0.311; c = 0.2155
+[E] direct ratio=0.50 T=240: eq_rel(mbb)=0.889 eq_rel(hac)=0.888 a025(mbb)=0.849 [11s]
+[E] direct ratio=0.50 T=480: eq_rel(mbb)=0.985 eq_rel(hac)=0.983 a025(mbb)=0.977 [18s]
+[E] direct ratio=1.00 T=240: eq_rel(mbb)=0.117 eq_rel(hac)=0.117 a025(mbb)=0.079 [12s]
+[E] direct ratio=1.00 T=480: eq_rel(mbb)=0.103 eq_rel(hac)=0.097 a025(mbb)=0.062 [18s]
+[E] direct ratio=1.50 T=240: eq_rel(mbb)=0.000 eq_rel(hac)=0.000 a025(mbb)=0.000 [11s]
+[E] direct ratio=1.50 T=480: eq_rel(mbb)=0.000 eq_rel(hac)=0.000 a025(mbb)=0.000 [19s]
+[E] indirect: tau_pop(W_A) = 1.7361; delta = 0.355; c = 0.2045
+[E] indirect ratio=0.50 T=240: eq_rel(mbb)=0.997 eq_rel(hac)=0.997 a025(mbb)=0.997 [12s]
+[E] indirect ratio=0.50 T=480: eq_rel(mbb)=1.000 eq_rel(hac)=1.000 a025(mbb)=1.000 [18s]
+[E] indirect ratio=1.00 T=240: eq_rel(mbb)=0.011 eq_rel(hac)=0.017 a025(mbb)=0.002 [11s]
+[E] indirect ratio=1.00 T=480: eq_rel(mbb)=0.025 eq_rel(hac)=0.030 a025(mbb)=0.008 [18s]
+[E] indirect ratio=1.50 T=240: eq_rel(mbb)=0.002 eq_rel(hac)=0.001 a025(mbb)=0.000 [11s]
+[E] indirect ratio=1.50 T=480: eq_rel(mbb)=0.000 eq_rel(hac)=0.000 a025(mbb)=0.000 [18s]
+=== done 2026-10-04 14:07:21

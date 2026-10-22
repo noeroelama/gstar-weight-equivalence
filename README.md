@@ -1,5 +1,7 @@
 # gstar-weight-equivalence
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23567439.svg)](https://doi.org/10.5281/zenodo.23567439)
+
 Code and data for the paper
 
 > A. Nurwahid. *A block bootstrap equivalence test for the choice of spatial weight matrix in
@@ -80,7 +82,13 @@ The polygons are used only for drawing; all computations use `data/regions.csv` 
 
 ## Citation
 
-If you use this code or data, please cite the paper and this archive (see `CITATION.cff`).
+If you use this code or data, please cite the paper and this archive:
+
+> Nurwahid, A. (2026). *gstar-weight-equivalence: code and data for "A block bootstrap equivalence
+> test for the choice of spatial weight matrix in space-time autoregressive models"* (version 1.0.0).
+> Zenodo. https://doi.org/10.5281/zenodo.23567439
+
+See also `CITATION.cff`.
 
 ## License
 
